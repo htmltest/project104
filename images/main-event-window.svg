@@ -1,0 +1,22 @@
+<svg width="20" height="20" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>external-link</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-7022 -17687)">
+<g id="external-link">
+<g id="Shape">
+<use xlink:href="#path0_stroke" transform="translate(7023 17691)" fill="#C7C7CC"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_stroke" transform="translate(7035 17688)" fill="#C7C7CC"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path2_stroke" transform="translate(7030 17688)" fill="#C7C7CC"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 16 7C 16 6.44772 15.5523 6 15 6C 14.4477 6 14 6.44772 14 7L 16 7ZM 8 1C 8.55229 1 9 0.552285 9 0C 9 -0.552285 8.55229 -1 8 -1L 8 1ZM 14 7L 14 13L 16 13L 16 7L 14 7ZM 14 13C 14 13.5523 13.5523 14 13 14L 13 16C 14.6569 16 16 14.6569 16 13L 14 13ZM 13 14L 2 14L 2 16L 13 16L 13 14ZM 2 14C 1.44772 14 1 13.5523 1 13L -1 13C -1 14.6569 0.343146 16 2 16L 2 14ZM 1 13L 1 2L -1 2L -1 13L 1 13ZM 1 2C 1 1.44772 1.44772 1 2 1L 2 -1C 0.343146 -1 -1 0.343146 -1 2L 1 2ZM 2 1L 8 1L 8 -1L 2 -1L 2 1Z"/>
+<path id="path1_stroke" d="M 0 -1C -0.552285 -1 -1 -0.552285 -1 0C -1 0.552285 -0.552285 1 0 1L 0 -1ZM 6 0L 7 0C 7 -0.552285 6.55228 -1 6 -1L 6 0ZM 5 6C 5 6.55228 5.44772 7 6 7C 6.55228 7 7 6.55228 7 6L 5 6ZM 0 1L 6 1L 6 -1L 0 -1L 0 1ZM 5 0L 5 6L 7 6L 7 0L 5 0Z"/>
+<path id="path2_stroke" d="M -0.707107 10.2929C -1.09763 10.6834 -1.09763 11.3166 -0.707107 11.7071C -0.316583 12.0976 0.316583 12.0976 0.707107 11.7071L -0.707107 10.2929ZM 11.7071 0.707107C 12.0976 0.316583 12.0976 -0.316583 11.7071 -0.707107C 11.3166 -1.09763 10.6834 -1.09763 10.2929 -0.707107L 11.7071 0.707107ZM 0.707107 11.7071L 11.7071 0.707107L 10.2929 -0.707107L -0.707107 10.2929L 0.707107 11.7071Z"/>
+</defs>
+</svg>

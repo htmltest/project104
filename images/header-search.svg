@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Search_ico" fill="#FFFFFF">
+            <path d="M27.5,26 L26.7,26 L26.4,25.7 C27.4,24.6 28,23.1 28,21.5 C28,17.9 25.1,15 21.5,15 C17.9,15 15,17.9 15,21.5 C15,25.1 17.9,28 21.5,28 C23.1,28 24.6,27.4 25.7,26.4 L26,26.7 L26,27.5 L31,32.5 L32.5,31 L27.5,26 L27.5,26 Z M21.5,26 C19,26 17,24 17,21.5 C17,19 19,17 21.5,17 C24,17 26,19 26,21.5 C26,24 24,26 21.5,26 L21.5,26 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

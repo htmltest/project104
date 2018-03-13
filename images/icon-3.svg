@@ -1,0 +1,37 @@
+<svg width="88" height="56" viewBox="0 0 88 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>icon_factoid_bus</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-741 -353)">
+<g id="icon_factoid_bus">
+<g id="Bus">
+<g id="Combined Shape">
+<use xlink:href="#path0_fill" transform="translate(760 353)" fill="#F46268"/>
+</g>
+<g id="Combined Shape">
+<use xlink:href="#path1_fill" transform="translate(762 403)" fill="#F46268"/>
+</g>
+<g id="Combined Shape Copy">
+<use xlink:href="#path1_fill" transform="translate(797 403)" fill="#F46268"/>
+</g>
+<g id="Combined Shape">
+<use xlink:href="#path2_fill" transform="translate(765 390)" fill="#F46268"/>
+</g>
+<g id="Combined Shape Copy 2">
+<use xlink:href="#path2_fill" transform="translate(795 390)" fill="#F46268"/>
+</g>
+<g id="Combined Shape">
+<use xlink:href="#path3_fill" transform="translate(810 365)" fill="#F46268"/>
+</g>
+<g id="Combined Shape Copy 3">
+<use xlink:href="#path3_fill" transform="matrix(-1 0 0 1 760 365)" fill="#F46268"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 1 0C 0.447693 0 0 0.447723 0 1L 0 51C 0 51.5523 0.447693 52 1 52L 49 52C 49.5523 52 50 51.5523 50 51L 50 1C 50 0.447723 49.5523 0 49 0L 1 0ZM 48 2L 2 2L 2 50L 48 50L 48 2ZM 4 11C 4 10.4477 4.44769 10 5 10L 45 10C 45.5523 10 46 10.4477 46 11L 46 32C 46 32.5523 45.5523 33 45 33L 5 33C 4.44769 33 4 32.5523 4 32L 4 11ZM 44 12L 6 12L 6 31L 44 31L 44 12Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 2 0L 0 0L 0 4C 0 5.10458 0.895447 6 2 6L 9 6C 10.1046 6 11 5.10458 11 4L 11 0L 9 0L 9 3C 9 3.55228 8.55231 4 8 4L 3 4C 2.44769 4 2 3.55228 2 3L 2 0Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 10 5C 10 7.76141 7.76141 10 5 10C 2.23859 10 0 7.76141 0 5C 0 2.23859 2.23859 0 5 0C 7.76141 0 10 2.23859 10 5ZM 8 5C 8 6.65686 6.65686 8 5 8C 3.34314 8 2 6.65686 2 5C 2 3.34314 3.34314 2 5 2C 6.65686 2 8 3.34314 8 5Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 3 0L 0 0L 0 2L 2 2L 2 12L 0 12L 0 14L 3 14C 3.55231 14 4 13.5523 4 13L 4 1C 4 0.447723 3.55231 0 3 0Z"/>
+</defs>
+</svg>

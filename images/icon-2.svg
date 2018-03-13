@@ -1,0 +1,18 @@
+<svg width="88" height="56" viewBox="0 0 88 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>icon_factoid_metro</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-607 -353)">
+<g id="icon_factoid_metro">
+<g id="if_shopping_cart_loaded_172553">
+<g id="Metro Copy">
+<g id="Rectangle 17">
+<use xlink:href="#path0_fill" transform="translate(615 354.272)" fill="#F46268"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 23.6909 0L 4.78503 46.7307L 0 46.7284L 0 52.7284L 27 52.7284L 27 46.7284L 22.9533 46.7284L 27.2034 36.3171L 36.0006 54.2063L 44.9254 36.3246L 49.16 46.7309L 45 46.7284L 45 52.7284L 72 52.7284L 72 46.7284L 67.3309 46.7284L 48.3812 0.00961304L 36.0029 25.8099L 23.6909 0ZM 6.35077 48.7267L 23.8564 5.45685L 35.9971 30.9077L 48.2125 5.44724L 65.7668 48.7308L 70 48.7284L 70 50.7284L 47 50.7284L 47 48.7284L 52.3571 48.7284L 45.1284 30.9916L 36.0153 49.2506L 27.0164 30.9513L 19.7625 48.7329L 25 48.7284L 25 50.7284L 2 50.7284L 2 48.7284L 6.35077 48.7267Z"/>
+</defs>
+</svg>

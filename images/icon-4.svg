@@ -1,0 +1,14 @@
+<svg width="88" height="56" viewBox="0 0 88 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>icon_factoid_parking</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-875 -353)">
+<g id="icon_factoid_parking">
+<g id="P">
+<use xlink:href="#path0_fill" transform="translate(903 355)" fill="#F46268"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 52L 13 52L 13 36L 19 36C 28.3818 36 36 27.8265 36 17.984C 36 8.16632 28.4036 0 19 0L 0 0L 0 52ZM 11 50L 2 50L 2 2L 19 2C 27.2703 2 34 9.24402 34 17.984C 34 26.7535 27.2429 34 19 34L 11 34L 11 50ZM 18 23C 21.1364 23 23 21.3333 23 18C 23 14.7269 20.9967 13 18 13L 13 13L 13 23L 18 23ZM 18 11L 11 11L 11 25L 18 25C 22.3074 25 25 22.381 25 18C 25 13.6777 22.1656 11 18 11Z"/>
+</defs>
+</svg>
