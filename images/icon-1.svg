@@ -1,25 +1,25 @@
 <svg width="88" height="56" viewBox="0 0 88 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<title>icon_factoid_shoppingCart</title>
+<title>icon_factoid_ploshad</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(-484 -353)">
-<g id="icon_factoid_shoppingCart">
+<g id="Canvas" transform="translate(-1774 -932)">
+<g id="icon_factoid_ploshad">
 <g id="Combined Shape">
-<use xlink:href="#path0_fill" transform="translate(512.9 355.4)" fill="#F46268"/>
+<use xlink:href="#path0_fill" transform="translate(1802.9 934.4)" fill="#F46268"/>
 </g>
 <g id="Combined Shape Copy 2">
-<use xlink:href="#path1_fill" transform="translate(511 399)" fill="#F46268"/>
+<use xlink:href="#path1_fill" transform="translate(1801 978)" fill="#F46268"/>
 </g>
 <g id="Combined Shape Copy 3">
-<use xlink:href="#path1_fill" transform="translate(533 399)" fill="#F46268"/>
+<use xlink:href="#path1_fill" transform="translate(1823 978)" fill="#F46268"/>
 </g>
 <g id="Combined Shape Copy 4">
-<use xlink:href="#path2_fill" transform="translate(492 353)" fill="#F46268"/>
+<use xlink:href="#path2_fill" transform="translate(1782 932)" fill="#F46268"/>
 </g>
 </g>
 </g>
 <defs>
-<path id="path0_fill" fill-rule="evenodd" d="M 11.1 3.29999L 20.6 13.2L 22.2 11.7L 16.215 5.39151L 17.6 3.89999L 25.8264 12.7523L 28.5 12.3L 17.6 0.600006L 14.6855 3.77939L 11.1 0L 0 11.7L 1.59998 13.2L 11.1 3.29999Z"/>
-<path id="path1_fill" fill-rule="evenodd" d="M 10 5C 10 7.76141 7.76141 10 5 10C 2.23859 10 0 7.76141 0 5C 0 2.23859 2.23859 0 5 0C 7.76141 0 10 2.23859 10 5ZM 8 5C 8 6.65686 6.65686 8 5 8C 3.34314 8 2 6.65686 2 5C 2 3.34314 3.34314 2 5 2C 6.65686 2 8 3.34314 8 5Z"/>
-<path id="path2_fill" fill-rule="evenodd" d="M 17.9082 14L 56.6205 14L 46.9238 38L 23.8921 38L 25.8867 46L 46 46L 46 48L 26.3854 48L 24.3242 48L 23.8255 46L 12.8551 2L 0 2L 0 0L 14.4176 0L 17.9082 14ZM 18.4069 16L 23.3935 36L 45.5748 36L 53.6553 16L 18.4069 16Z"/>
+<path id="path0_fill" fill-rule="evenodd" d="M 11.1 3.29999L 20.6 13.2L 22.2 11.7L 16.215 5.39154L 17.6001 3.89996L 25.8264 12.7523L 28.5 12.3L 17.6001 0.599976L 14.6855 3.77942L 11.1 0L 0 11.7L 1.59998 13.2L 11.1 3.29999Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 10 5C 10 7.76141 7.76147 10 5 10C 2.23853 10 0 7.76141 0 5C 0 2.23859 2.23853 0 5 0C 7.76147 0 10 2.23859 10 5ZM 8 5C 8 6.65686 6.65686 8 5 8C 3.34314 8 2 6.65686 2 5C 2 3.34314 3.34314 2 5 2C 6.65686 2 8 3.34314 8 5Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 17.9082 14L 56.6205 14L 46.9238 38L 23.8921 38L 25.8867 46L 46 46L 46 48L 26.3854 48L 24.3242 48L 23.8255 46L 12.8551 2L 0 2L 0 0L 14.4176 0L 17.9082 14ZM 18.4069 16L 23.3934 36L 45.5748 36L 53.6553 16L 18.4069 16Z"/>
 </defs>
 </svg>
